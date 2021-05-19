@@ -16,3 +16,14 @@ a knowledge graph of the novel Game of Thrones
 - web crawler
 
 more details, see the docs in the project...
+
+# 界面效果预览
+![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/tree/main/demo images/index.png")
+![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/tree/main/demo images/real.png")
+![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/tree/main/demo images/real2.png")
+![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/tree/main/demo images/graph.png")
+![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/tree/main/demo images/graph_search.png")
+![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/tree/main/demo images/graph2.png")
+![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/tree/main/demo images/graph3.png")
+![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/tree/main/demo images/search.png")
+![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/tree/main/demo images/sparql.png")
