@@ -18,12 +18,12 @@ a knowledge graph of the novel Game of Thrones
 more details, see the docs in the project...
 
 # 界面效果预览
-![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/index.png")
-![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/graph.png")
-![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/real.png")
-![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/graph_search.png")
-![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/graph2.png")
-![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/graph3.png")
-![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/real2.png")
-![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/search.png")
-![avatar]("https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/sparql.png")
+![avatar](https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/index.png)
+![avatar](https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/graph.png)
+![avatar](https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/real.png)
+![avatar](https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/graph_search.png)
+![avatar](https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/graph2.png)
+![avatar](https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/graph3.png)
+![avatar](https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/real2.png)
+![avatar](https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/search.png)
+![avatar](https://github.com/mudimingquedeyinmoujia/knowledge_graph_of_GOT/blob/main/demo_images/sparql.png)
